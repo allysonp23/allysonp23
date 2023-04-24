@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Allyson Paulino, programador.
 
-- 🔭 Hoje trabalho com back-end.
+- 🔭 Hoje trabalho como back-end.
 - 🌱 Estudando Python e Django
 - 📫 Você pode entrar em contato comigo pelo e-mail: allysonpaulino23@gmail.com
 
