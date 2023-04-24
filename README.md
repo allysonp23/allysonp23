@@ -6,4 +6,4 @@
 
 -->
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=allysonp23&show_icons=true)
