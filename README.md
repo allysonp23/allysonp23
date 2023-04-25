@@ -7,15 +7,17 @@
 - 🔭 Hoje trabalho como back-end.
 - 🌱 Estudando Python e Django
 
--->
+##
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=allysonp23&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allysonp23)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-<figure><embed src="https://wakatime.com/share/@fa23a61d-b497-4ecd-90d7-a659a19f71e3/ef20d5b0-6f8d-46db-b74e-2e0259e8d3f1.svg"></embed></figure>
 <br>
 
+##
+<br>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@fa23a61d-b497-4ecd-90d7-a659a19f71e3/7a13fb0f-a81c-4d31-a98b-5b1c5c69480a.png" /></a>
+<br>
+##
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="Ally-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
