@@ -3,6 +3,15 @@
           
 <h6> 💫 #desenvolvimentoweb, #python, #games, #django, #aprendizado e #tecnologia </h6>
   
+ <h3> About me </h3>
+ 
+  Formado em engenharia civil, quase 10 anos de carreira na construção civil decidi migrar de carreira.
+  Hoje estudo Python, Django, HTML e CSS. Estou em uma parceria privada com a Volpi Tech, que é uma startup
+  financeira.
+  Como estou iniciando a migração, a curva de aprendizagem é altíssima, o que mantém me acessa a vontade de
+  adquirir mais e mais conhecimento. 
+  Mantenho também o hábito da leitura, desenvolvendo softskills, estudando mercado financeiro e investindo.
+  Meu foco sempre foi o conhecimento, ele liberta.
 ## 
 - 🔭 Hoje trabalho como back-end.
 - 🌱 Estudando Python e Django
