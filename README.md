@@ -13,8 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allysonp23)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-<figure><embed src="https://wakatime.com/share/@fa23a61d-b497-4ecd-90d7-a659a19f71e3/2b8c6845-e4bb-40b2-839e-d21ad6f3bf30.svg"></embed></figure>
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@fa23a61d-b497-4ecd-90d7-a659a19f71e3/e6505ede-43eb-44d6-9c4d-25cc6f667300.png" /></a>
 
 <br>
 <div align="center" style="display: inline_block">
