@@ -5,13 +5,7 @@
   
  <h3> About me </h3>
  
-  Formado em engenharia civil e após quase 10 anos na construção civil decidi migrar de carreira para a programação.
-  Hoje estudo Python, Django, HTML e CSS. Estou em uma parceria de aprendizagem com a Volpi Tech, que é uma startup
-  financeira.
-  Como estou iniciando a migração, tenho uma curva de aprendizagem que é altíssima, o que mantém acesa a vontade de
-  adquirir mais e mais conhecimento. 
-  Mantenho também o hábito da leitura, desenvolvendo softskills, estudando o mercado financeiro e investindo na área.
-  Meu foco sempre foi o conhecimento, ele liberta.
+
   
 ## 
 - 🔭 Hoje trabalho como back-end.
