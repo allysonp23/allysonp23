@@ -1,15 +1,15 @@
 <h3> Olá, sou Allyson Paulino! Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 </h3>  
 <h4></h4>   
           
-<h6> 💫 #desenvolvimentoweb, #python, #games, #django, #aprendizado e #tecnologia </h6>
+<h6> 💫 #desenvolvimentoweb, #python, #django e #tecnologia </h6>
   
  <h3> About me </h3>
  
 
   
 ## 
-- 🔭 Hoje trabalho como back-end.
-- 🌱 Estudando Python e Django
+- 🔭 Backend DEV.
+- 🌱 Python e Django
 
 <a href = "mailto:allysonpaulino23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
